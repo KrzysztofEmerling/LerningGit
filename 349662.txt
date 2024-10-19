@@ -1,4 +1,2 @@
 
-
-Nowy Tekst!
-
+Nowy tekst z oryginalnego repozytorium
